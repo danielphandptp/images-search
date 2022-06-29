@@ -1,6 +1,6 @@
 # Kitten Playground
 
-Project Link: danielphandptp.github.io/images-search/
+Project Link: (danielphandptp.github.io/images-search/)
 
 Installation steps:
 1. `git clone <project-url>`

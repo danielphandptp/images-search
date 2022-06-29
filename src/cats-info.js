@@ -1,4 +1,4 @@
-export const robots = [
+export const cat_info = [
 	{
 	 "id": 1,
 	 "name": "Luna",

@@ -1,8 +1,8 @@
 import React from "react";
 import Card from "./Card";
 
-const CardList = ({ robots }) => {
-	const cardsArray = robots.map((element, index) => {
+const CardList = ({ cat_info }) => {
+	const cardsArray = cat_info.map((element, index) => {
 		return (
 			<Card 
 				key={index} 

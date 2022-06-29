@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Rosalyn Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rosalyn Regular'), url('Rosalyn.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Rosalyn Regular';
+	font-weight: 500;
+}
